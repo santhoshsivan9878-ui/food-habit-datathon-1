@@ -1,9 +1,9 @@
-# DATATHON '26 – Food Habit Analysis
+# DATATHON '26 – Food Habit Analysis(44-->DATASET),(45--->>DASHBOARD),(IMAGES--->47,48,49)
 
 ## 📊 Project Overview
 This project analyzes modern food consumption patterns and identifies hidden insights related to meal types, food categories, and calorie intake. The goal is to provide actionable insights for healthier lifestyle choices.
 
-**Team Name:** Data Mavericks  
+**Team Name:** TEAM DATA  
 **College:** Karpagam Academy of Higher Education  
 **Theme:** Food Habit  
 
@@ -17,7 +17,7 @@ This project analyzes modern food consumption patterns and identifies hidden ins
 ---
 
 ## 🗂 Dataset
-- File: `food_habit_dataset.csv`  
+- 
 - Contains: Age, Gender, Meal Type, Food Category, Calorie Intake, Date of Consumption  
 - Entries: 30 sample records for analysis  
 - Source: Academic purposes, provided by the team
@@ -41,19 +41,10 @@ This project analyzes modern food consumption patterns and identifies hidden ins
 - File: `food_habit_analysis.xlsx`  
 - Contains: Pivot tables, charts, and mini dashboard  
 - Screenshots available in `charts_screenshots/` folder  
-
----
-
-## 🔗 GitHub Repository
-- Raw dataset: `food_habit_dataset.csv`  
-- Dashboard & analysis: `food_habit_analysis.xlsx`  
-
-> Small awareness + Data-driven decisions = Healthier future 🌱
-> RAW DATABSE
-> 
----
-
-#(https://github.com/user-attachments/assets/50b98c64-863a-4bdd-a349-04dfd245d386)
+[raw dataset.csv](https://github.com/user-attachments/files/24742506/raw.dataset.csv)--------->DATA
+[FOOD HABIT ANALYSIS.xlsx](https://github.com/user-attachments/files/24742458/FOOD.HABIT.ANALYSIS.xlsx)------->> DASHBOARD
+IMAGES:
+<img width="1868" height="628" alt="Screenshot 2026-01-20 210033" src="https://github.com/user-attachments/assets/aef71bb6-9ced-4cfb-bbb9-67e76a1cd254" />
 ![1000040059](https://github.com/user-attachments/assets/ef067adc-720e-4ca8-b92d-569c29334840)
 ![1000040058](https://github.com/user-attachments/assets/c9587e61-57d3-49ec-8713-6c4c52e98bde)
 ![1000040057](https://github.com/user-attachments/assets/6d857f12-6a2c-4f75-9f9c-386eb945929e)
